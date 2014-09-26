@@ -1,5 +1,5 @@
 # Silence
 *Just an super simple html holding page*
 
-```<?php
+```&#60;&#63;php
 		// Silence is golden
